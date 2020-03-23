@@ -151,6 +151,7 @@
 .section-subtitle {
   line-height: 34px;
   font-size: 24px;
+  margin-top: 0;
 }
 
 .table {
@@ -172,12 +173,15 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .table__text {
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
+  margin-bottom: 0;
 }
 
 .table__text_bank {
@@ -249,6 +253,7 @@
 
 .section-subtitle_theme_dark {
   color: white;
+  margin-bottom: 0;
 }
 
 .table_theme_dark {
@@ -307,6 +312,7 @@
   padding: 18px 0;
   line-height: 25px;
   font-size: 18px;
+  margin-bottom: 0;
 }
 
 .footer__column-heading {
