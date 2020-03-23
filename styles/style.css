@@ -265,7 +265,7 @@
   color: white;
 }
 
-.kaufman__image_triangle {
+.kaufman__triangle {
   width: 877px;
   height: 877px;
   position: absolute;
@@ -319,7 +319,7 @@
   margin-bottom: 0;
 }
 
-.footer__column-links_text {
+.footer__list-item {
   line-height: 30px;
   font-size: 18px;
   list-style-type: none;
