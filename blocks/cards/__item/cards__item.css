@@ -2,8 +2,9 @@
   display: flex;
   flex-direction: column;
   width: 240px;
+  margin-right: 100px;
 }
 
-.cards__item:last-child {
-  margin-right: 340px;
+.cards__item:nth-child(3) {
+  margin-right: 0;
 }
